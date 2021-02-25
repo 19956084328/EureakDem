@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9863448-7394-4b91-8e07-3d9089ef70dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Public\Nwt\cache\recv\邓林钊\ideaIU_2020.2.3_Portable\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oxwqxm0KaVjy3G5LU4qjTOYqw0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="D:/code" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\EureakDemo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9863448-7394-4b91-8e07-3d9089ef70dc" name="Default Changelist" comment="" />
+      <created>1614241744879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614241744879</updated>
+      <workItem from="1614241746007" duration="90000" />
+      <workItem from="1614242274150" duration="138000" />
+      <workItem from="1614242552343" duration="1108000" />
+      <workItem from="1614243673529" duration="5000" />
+      <workItem from="1614243779686" duration="684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="248" y="5" key="#Project_Structure" timestamp="1614243222913">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="248" y="5" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1614243222913" />
+    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1614243035641">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="366" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1614243035641" />
+    <state x="578" y="332" key="Github.CreateGistDialog" timestamp="1614243018018">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="332" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1614243018018" />
+    <state x="629" y="328" width="277" height="282" key="Github.ShareDialog" timestamp="1614244629280">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="629" y="328" width="277" height="282" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1614244629280" />
+    <state x="610" y="47" key="Github.UntrackedFilesDialog" timestamp="1614242897227">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="610" y="47" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1614242897227" />
+    <state x="269" y="75" key="SettingsEditor" timestamp="1614244652393">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="269" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1614244652393" />
+    <state x="360" y="161" key="Vcs.Push.Dialog.v2" timestamp="1614243611277">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="360" y="161" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1614243611277" />
+    <state x="573" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614243534577">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="573" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1614243534577" />
+    <state x="169" y="0" key="new project wizard" timestamp="1614243590266">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="169" y="0" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1614243590266" />
+  </component>
+</project>
